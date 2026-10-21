@@ -1,0 +1,5 @@
+# Streamlit provides the browser-based graphical interface.
+streamlit>=1.57
+tabulate>=0.9
+rich>=13.0
+windows-curses; sys_platform == "win32"
